@@ -162,7 +162,7 @@ to:     /Volumes/user/cjf/w/ezpp/playground/logo.png.out/ios/AppIcon.appiconset/
 [24/24]--------- RESIZE ----------
 resize: (1024, 1024)->(192, 192)
 from:   /Volumes/user/cjf/w/ezpp/playground/logo.png
-to:     /Volumes/user/cjf/w/ezpp/playground/logo.png.out/android/res/mipmap-xxxdpi/ic_launcher.png
+to:     /Volumes/user/cjf/w/ezpp/playground/logo.png.out/android/res/mipmap-xxxhdpi/ic_launcher.png
 [1/1]--------- COPY ----------
 from:    /Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/ezpp-0.0.3-py3.6.egg/ezpp/resize_cfg/Contents.json
 copy to: /Volumes/user/cjf/w/ezpp/playground/logo.png.out/ios/AppIcon.appiconset/Contents.json
@@ -177,11 +177,11 @@ logo.png.out/
 │       │   └── ic_launcher.png
 │       ├── mipmap-mdpi
 │       │   └── ic_launcher.png
-│       ├── mipmap-xdpi
+│       ├── mipmap-xhdpi
 │       │   └── ic_launcher.png
-│       ├── mipmap-xxdpi
+│       ├── mipmap-xxhdpi
 │       │   └── ic_launcher.png
-│       └── mipmap-xxxdpi
+│       └── mipmap-xxxhdpi
 │           └── ic_launcher.png
 └── ios
     └── AppIcon.appiconset
